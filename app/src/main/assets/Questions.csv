@@ -1,0 +1,6 @@
+ID,Question,A0, A1, A2, A3, Subject
+fac_1,factorize : x^2 - 4x + 4,(x-2)^2, (x-2x)^2,(x-4)^2, (x+2)^2, Math
+fac_2,factorize : 15x + 25, 5(3x+5), 3(5x+3), 3(3x+5), 5(5x+10), Math
+dif_1,Differentiate 20x^-4 + 9 ,y’ = -80x-5, y’ = 80x+5, y’ = -80x+5, y’ = 80x-5, Math
+dif_2,Differentiate 10x2 with respect to x,y’ = 20x, y’ = 20x, y’ = 20x, y’ = 20x, Math
+trig_1,Find x and H in the right triangle below,"x = 10 / tan(51°) = 8.1 | H = 10 / sin(51°) = 13", "x = 10 / tan(51°) = 8.5 | H = 10 / sin(51°) = 11", "x = 10 / tan(51°) = 7.1 | H = 10 / sin(51°) = 12", "x = 10 / tan(51°) = 8.8 | H = 10 / sin(51°) = 14", Math
